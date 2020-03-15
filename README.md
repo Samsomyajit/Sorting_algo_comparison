@@ -24,6 +24,14 @@ print("Merge took: " + str(test(merge, randomlist)) + "seconds.")
 
 produceresults(1, 1000, 20) #Comparison graph between algorithms acting on list of size 1 to 1000, incrementing by 20
 ````
+## Graph Analysis
+ <p align="center">
+  <img  src="https://github.com/Samsomyajit/Sorting_algo_comparison/blob/master/graph/Figure_1-1.png">
+</p><br>
+## Runtime Analysis
+ <p align="center">
+  <img  src="https://github.com/Samsomyajit/Sorting_algo_comparison/blob/master/graph/runtime_analysis.JPG">
+</p>
 
 ## License
 <pre>

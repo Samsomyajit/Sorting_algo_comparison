@@ -1,5 +1,8 @@
 # Sorting Algorithms Speed Comparison
 
+## Author
+Name: Somyajit Chakraborty, Research and Development Manager/CTO, Bread and Code
+
 ## Description
 
 This python script defines functions that enable the user to test and compare the 'Bubble' and 'Shuttle', 'Insertion', 'Merge' sorts on some randomly generated lists.

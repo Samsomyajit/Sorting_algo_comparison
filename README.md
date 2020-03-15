@@ -1,16 +1,16 @@
-#Sorting Algorithms Speed Comparison
+# Sorting Algorithms Speed Comparison
 
-##Description
+## Description
 
 This python script defines functions that enable the user to test and compare the 'Bubble' and 'Shuttle', 'Insertion', 'Merge' sorts on some randomly generated lists.
 
-##Optional / Required Modules
+## Optional / Required Modules
 
 Apart from in-built modules, this code defines a function to plot a comparison of execution times for each algorithm.
 The necessary module for this to work is **matplotlib**. If you are on windows I recommend getting a distribution of python that comes with many packages pre-installed such as **python(x,y)** or **WinPython**.
 If you are on linux then I recommend using your package manager to install matplotlib (e.g. `sudo apt-get install python-matplotlib`).
 
-##Example Usage
+## Example Usage
 
 ````python
 from sorting import getnewlist, bubble, shuttle, insertion, merge, test, produceresults
@@ -25,7 +25,7 @@ print("Merge took: " + str(test(merge, randomlist)) + "seconds.")
 produceresults(1, 1000, 20) #Comparison graph between algorithms acting on list of size 1 to 1000, incrementing by 20
 ````
 
-##License
+## License
 <pre>
 The MIT License(MIT)
 

@@ -28,7 +28,7 @@ produceresults(1, 1000, 20) #Comparison graph between algorithms acting on list 
  <p align="center">
   <img  src="https://github.com/Samsomyajit/Sorting_algo_comparison/blob/master/graph/Figure_1-1.png">
 </p><br>
-## Runtime Analysis
+<h2>Runtime Analysis</h2>
  <p align="center">
   <img  src="https://github.com/Samsomyajit/Sorting_algo_comparison/blob/master/graph/runtime_analysis.JPG">
 </p>

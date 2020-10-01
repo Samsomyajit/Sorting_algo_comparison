@@ -1,0 +1,3 @@
+*Need new sorting algorithms for performing comparision
+*add complexity chart
+*better visulas
